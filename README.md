@@ -4,7 +4,7 @@
  
 2023-07-06 · Christophe Pelé · FuboTV
 
-## About merge, rebase
+## About merge and rebase
 
 - Merging is powerful, it gives you *truth*:
   
