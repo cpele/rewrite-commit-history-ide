@@ -53,8 +53,6 @@
   
     <video muted controls src="Pasted%20image%2020230706153727.mp4" style="width:800px" />
 
-    <https://Pasted%20image%2020230706153727.mp4 />
-
 ## More demo
 
 - *Rebase* stuff
