@@ -1,7 +1,7 @@
 # ~~Rebase~~ Rewrite your commit history
 
 ## Merge ~~vs~~ ❤️ rebase
-
+ 
 2023-07-06 · Christophe Pelé · FuboTV
 
 ## About merge, rebase
